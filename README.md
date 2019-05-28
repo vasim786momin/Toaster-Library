@@ -7,7 +7,8 @@ To get a Git project into your build:
 Step 1. Add the JitPack repository to your build file
 
 
-allprojects {
+allprojects
+{
 		repositories {
 		
 			maven { url 'https://jitpack.io' }
